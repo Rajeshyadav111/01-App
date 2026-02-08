@@ -10,3 +10,4 @@ this is f11 file --3
 // bug fix-101
 aaaa
 bbbb
+int c=10;

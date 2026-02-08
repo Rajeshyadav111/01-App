@@ -13,4 +13,5 @@ bbbb
 int c=10;
 String variable="Rajesh";
 String name="abc";
+byte bb=10;
 

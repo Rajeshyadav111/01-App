@@ -11,3 +11,4 @@ this is f11 file --3
 aaaa
 bbbb
 int c=10;
+String variable="Rajesh";
